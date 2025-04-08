@@ -47,7 +47,7 @@ const Home = () => {
       <div className="relative w-80 h-80 flex items-center justify-center">
         <div className="neon-border"></div>
         <img
-          src="src/components/img/My_self.png"
+          src="/My_self.png"
           className="w-72 h-72 rounded-full object-cover border-4 border-gray-800"
           alt="Darshan Tank"
         />
