@@ -33,7 +33,7 @@ const projects = [
       "This is my personal developer portfolio showcasing a collection of modern and responsive web applications. Built with a focus on clean UI and smooth UX, the portfolio reflects my skills in React.js, Tailwind CSS, and JavaScript. It features live demos, GitHub links, and detailed descriptions of my best projects",
     tech: ["React.js", "Tailwind CSS", "JavaScript", "HTML5", "CSS3"],
     github: "https://github.com/TankDarshanH/My-Portfolio",
-    demo: "https://your-portfolio-demo-link.netlify.app/",
+    demo: "https://darshan-tank-portfolio.netlify.app/",
     image: "/portfolio.png",
   },
 ];
