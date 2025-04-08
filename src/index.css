@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(to right, #0f0f0f, #1a1a1a, #2c2c2c);
+  color: rgb(200, 200, 200);
+  min-height: 100vh;
+}
+
+/* Make all sections blend well with the background */
+section {
+  background: rgba(20, 20, 20, 0.85); /* Slight transparency */
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Neon Border for Profile Image */
+.neon-border {
+  position: absolute;
+  inset: 0;
+  border: 6px solid transparent;
+  border-radius: 50%;
+  animation: neonGlow 2s infinite alternate ease-in-out;
+}
+
+@keyframes neonGlow {
+  0% {
+    border-color: #00ffcc;
+    box-shadow: 0 0 10px #00ffcc;
+  }
+  50% {
+    border-color: #ff00ff;
+    box-shadow: 0 0 20px #ff00ff;
+  }
+  100% {
+    border-color: #00ffcc;
+    box-shadow: 0 0 10px #00ffcc;
+  }
+}
+
+/* Highlighted Text */
+.animated-text {
+  background: linear-gradient(to right, #4f46e5, #9333ea);
+  background-clip: text; /* Standard property */
+  -webkit-background-clip: text; /* WebKit browsers */
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+
+
