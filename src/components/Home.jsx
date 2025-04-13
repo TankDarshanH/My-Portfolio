@@ -24,7 +24,7 @@ const Home = () => {
         {/* Buttons */}
         <div className="mt-6 flex flex-col md:flex-row gap-4">
           <a
-            href="https://drive.google.com/file/d/1xkXepZst8cTQO4QQSZdNtyTg7HS-sV8J/view?usp=sharing"
+            href="https://drive.google.com/file/d/1YkgxBy2LT807EZ-LIH9uV0_tTKFzCbTx/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-600 to-blue-400 text-white px-6 py-3 rounded-full text-lg font-semibold hover:opacity-90 transition-all shadow-lg"
