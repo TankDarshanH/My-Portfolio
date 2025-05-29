@@ -1,6 +1,6 @@
 # 💼 Darshan Tank Portfolio
 
-🌐 **Live Demo:** [https://darshan-tank-portfolio.netlify.app](https://darshan-tank-portfolio.netlify.app)
+🌐 **Live Demo:** [https://darshan-tank-portfolio.netlify.app](https://darshan-tank-portfolio.netlify.app/)
 
 This is my personal portfolio website — a sleek, modern, and fully responsive web app built using **React.js**, **Tailwind CSS**, and **React Router**.  
 It showcases who I am, what I do, and the projects I've built. The goal of this site is to reflect my skills as a Frontend Developer and provide an easy way for people to get in touch with me.
